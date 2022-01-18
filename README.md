@@ -113,6 +113,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Billy Shih
 * Luke James
 * Miottia
+* Anderik
 * PNGCollector
 * Sothy
 * beeteegee
